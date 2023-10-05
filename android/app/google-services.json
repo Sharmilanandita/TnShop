@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "407827229379",
+    "project_id": "tnshopweb",
+    "storage_bucket": "tnshopweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407827229379:android:024d48fd484065e7d59076",
+        "android_client_info": {
+          "package_name": "com.delivery.tnshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP_ci33-jO6Y3w7anTzEjY9R7zW05nnwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407827229379-isjdpec6m66h30bido3ncg32hf6uomib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407827229379:android:b16072dc1d05b92ad59076",
+        "android_client_info": {
+          "package_name": "com.store.tnshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP_ci33-jO6Y3w7anTzEjY9R7zW05nnwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407827229379-isjdpec6m66h30bido3ncg32hf6uomib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407827229379:android:5802395c28d4370bd59076",
+        "android_client_info": {
+          "package_name": "com.user.tnshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP_ci33-jO6Y3w7anTzEjY9R7zW05nnwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407827229379-isjdpec6m66h30bido3ncg32hf6uomib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407827229379:android:28c933ef1d993b93d59076",
+        "android_client_info": {
+          "package_name": "com.user.tnshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP_ci33-jO6Y3w7anTzEjY9R7zW05nnwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407827229379-isjdpec6m66h30bido3ncg32hf6uomib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
